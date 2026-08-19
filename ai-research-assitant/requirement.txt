@@ -1,0 +1,35 @@
+pip install langchain langchain-community langchain-groq langchain-huggingface langchain-chroma pypdf sentence-transformers streamlit python-dotenv
+
+
+Agentic Research Assistant
+
+Using:
+
+LangChain
+LangGraph
+Groq
+ChromaDB
+HuggingFace Embeddings
+Streamlit
+What Makes It Different
+
+Instead of:
+
+Retriever → LLM
+
+We build:
+
+User Question
+      ↓
+LangGraph Workflow
+      ↓
+Retrieve Documents
+      ↓
+Generate Answer
+      ↓
+Return Response
+
+
+
+streamlit run app.py - to run 
+venv\Scripts\activate - to activate
