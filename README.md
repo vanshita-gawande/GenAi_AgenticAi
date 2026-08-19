@@ -35,7 +35,3 @@ ChromaDB · FAISS · Pinecone
 
 **Infrastructure**
 Python · Docker · Git
-
----
-
-## Structure
