@@ -18,7 +18,7 @@ This repository documents a hands-on journey through Generative AI, covering cor
 | **Retrieval Systems** | RAG pipelines, vector databases, embedding models |
 | **Agentic AI** | AI agents, multi-agent systems, memory, planning |
 | **Frameworks** | LangChain, LangGraph, MCP, A2A Protocol |
-| **Applications** | Streamlit UIs, FastAPI backends, Docker deployment |
+| **Applications** | Streamlit, ReactJs,NextJs UIs, FastAPI backends, Docker deployment |
 
 ---
 
